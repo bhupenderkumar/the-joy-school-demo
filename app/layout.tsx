@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'The Joy School',
-  description: 'The Joy School is a private school in Houston, TX, dedicated to fostering a love of learning in its students. With a focus on individualized attention and creative expression, our students thrive in a supportive and inclusive environment.',
+  description: 'The Joy School is a private school in Houston, TX, dedicated to providing a personalized education for students with learning differences. Our experienced teachers and staff create a supportive environment that fosters academic, social, and emotional growth.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

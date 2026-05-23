@@ -2,11 +2,12 @@ export default function Programs() {
   return (
     <section className="section">
       <h2>Our Programs</h2>
-      <div class="program-card"><h3>Early Childhood Program</h3><p>Our Early Childhood Program provides a nurturing environment for children aged 3-5, with a focus on play-based learning and socialization.</p></div>
-          <div class="program-card"><h3>Elementary School</h3><p>Our Elementary School offers a comprehensive curriculum that emphasizes critical thinking, creativity, and character development for students in grades K-5.</p></div>
-          <div class="program-card"><h3>Middle School</h3><p>Our Middle School program is designed to support the unique needs of early adolescents, with a focus on academic rigor, social responsibility, and emotional intelligence.</p></div>
-          <div class="program-card"><h3>Arts and Enrichment</h3><p>Our Arts and Enrichment program offers a wide range of extracurricular activities, including music, art, drama, and sports, to help students discover their passions and talents.</p></div>
-          <div class="program-card"><h3>Summer Camps</h3><p>Our Summer Camps provide a fun and engaging way for students to stay active, learn new skills, and make friends during the summer months.</p></div>
+      <div class="program-card"><h3>Lower School Program</h3><p>Our Lower School Program serves students in grades K-5 and provides a foundation in core subjects, as well as social skills and emotional intelligence.</p></div>
+          <div class="program-card"><h3>Upper School Program</h3><p>The Upper School Program is designed for students in grades 6-12 and offers a range of academic courses, including honors and elective options.</p></div>
+          <div class="program-card"><h3>Summer Program</h3><p>Our Summer Program provides a fun and engaging experience for students, with activities such as arts, sports, and STEM projects.</p></div>
+          <div class="program-card"><h3>Therapeutic Services</h3><p>We offer a range of therapeutic services, including occupational therapy, speech therapy, and counseling, to support our students' overall well-being.</p></div>
+          <div class="program-card"><h3>Extracurricular Activities</h3><p>The Joy School offers a variety of extracurricular activities, such as sports teams, clubs, and community service projects, to help our students develop new skills and interests.</p></div>
+          <div class="program-card"><h3>College Preparation</h3><p>Our College Preparation program provides guidance and support to help our students navigate the college application process and prepare for success in higher education.</p></div>
     </section>
   );
 }

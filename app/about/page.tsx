@@ -3,11 +3,9 @@ export default function About() {
     <section className="section">
       <h2>About The Joy School</h2>
       <div style={{ lineHeight: 1.8 }}>
-        <p style={{ marginBottom: '16px' }}>The Joy School is a place where students with learning differences can thrive and reach their full potential. Our school was founded on the principle that every child deserves a personalized education that caters to their unique strengths and challenges.</p>
-        <p style={{ marginBottom: '16px' }}></p>
-        <p style={{ marginBottom: '16px' }}>   Our experienced team of educators and therapists work together to create a comprehensive and integrated curriculum that addresses the academic, social, and emotional needs of our students. We believe that every child has the potential to succeed and make a positive impact in the world.</p>
-        <p style={{ marginBottom: '16px' }}></p>
-        <p style={{ marginBottom: '16px' }}>   At The Joy School, we are committed to fostering a sense of community and belonging among our students, parents, and staff. We strive to create a warm and welcoming environment that encourages socialization, creativity, and intellectual curiosity.</p>
+        <p style={{ marginBottom: '16px' }}>The Joy School was founded on the principle that every child deserves a personalized education that nurtures their unique strengths and interests. </p>
+        <p style={{ marginBottom: '16px' }}> Our experienced faculty and staff are committed to creating a warm and welcoming community that encourages social, emotional, and academic growth. </p>
+        <p style={{ marginBottom: '16px' }}> From our state-of-the-art facilities to our innovative curriculum, every aspect of The Joy School is designed to inspire a lifelong love of learning and a strong sense of self-confidence.</p>
       </div>
     </section>
   );

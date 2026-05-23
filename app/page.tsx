@@ -2,8 +2,8 @@ export default function Home() {
   return (
     <>
       <section className="hero">
-        <h1>Empowering Unique Minds in Houston</h1>
-        <p>The Joy School is a private school in Houston, TX, dedicated to providing a supportive and inclusive learning environment for students with learning differences. Our experienced staff and small class sizes enable us to tailor our curriculum to meet the individual needs of each student.</p>
+        <h1>Empowering Minds in Houston's Vibrant Community</h1>
+        <p>The Joy School is a private school in Houston, TX, dedicated to fostering a love of learning in its students. With a focus on individualized attention and creative expression, our students thrive in a supportive and inclusive environment.</p>
         <a href="/download" className="cta-btn" style={{ padding: '14px 32px', fontSize: '18px' }}>
           Get the Parent App
         </a>
@@ -26,7 +26,7 @@ export default function Home() {
           <p>Real-time attendance tracking with instant notifications to parents.</p>
         </div>
       </section>
-      <section className="section"><blockquote>"The Joy School has been a game-changer for our son, who was struggling in a traditional school setting. The individualized attention and supportive environment have helped him thrive and build confidence."<cite>— Sarah Thompson</cite></blockquote></section>
+      <section className="section"><blockquote>"The Joy School has been a game-changer for our family - the individualized attention and creative approach to learning have helped our child thrive in ways we never thought possible."<cite>— Sarah Thompson</cite></blockquote></section>
     </>
   );
 }
